@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Track"
+            android:icon="@drawable/local"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/Manuale"
+            android:icon="@drawable/manuale"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/Bho"
+            android:icon="@drawable/support"
+            android:title="@string/menu_slideshow" />
+    </group>
+</menu>

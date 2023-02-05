@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Techmade Track 3.0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Techmade GPS Track</string>
+    <string name="nav_header_subtitle">assistenza@techmade.eu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Manuale</string>
+    <string name="menu_slideshow">Supporto</string>
+</resources>
