@@ -1,5 +1,5 @@
 # Techmade-TRACK
-Customized WebView Android with FAB of a gps tracking platform written in php on mysql
+Customized WebView Android with FAB of a gps tracking platform in php on mysql db
 This project was developed by Mario Montella
 MY LICENSE
 
